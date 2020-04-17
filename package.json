@@ -1,0 +1,16 @@
+{
+  "name": "svg-to-png-mass-exporter",
+  "version": "1.0.0",
+  "description": "Turn your svg into png",
+  "main": "index.js",
+  "repository": "https://github.com/bobbyecho/svg-to-png-mass-exporter.git",
+  "author": "bobbyecho",
+  "license": "MIT",
+  "dependencies": {
+    "svgexport": "^0.4.0",
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+
+    "figlet": "^1.3.0",
+  }
+}
